@@ -1,7 +1,6 @@
-Простейший Telegram BOT как альтернатива MQTT
+Простий Telegram BOT яак альтернатива MQTT на ESP32
 https://www.youtube.com/watch?v=Gnf5DOrhnN4
 https://github.com/MoonFox2006/TeleBot
-
 
 Створити групу
 (до групи можна додати інших зацікавлених у отриманні даних користувачів)
